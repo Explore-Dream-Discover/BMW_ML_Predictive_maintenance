@@ -1,0 +1,34 @@
+/* Background color for the entire dashboard */
+body {
+    background-color: #f0f0f0; /* Replace with your preferred background color */
+}
+
+/* Text color for headings and labels */
+h1, h2, h3, label {
+    color: #333; /* Replace with your preferred text color */
+}
+
+/* Button color */
+button {
+    background-color: #007BFF; /* Replace with your preferred button color */
+    color: #fff; /* Text color for buttons */
+}
+
+/* Background color for specific components */
+.my-graph {
+    background-color: #fff; /* Replace with your preferred component background color */
+}
+
+
+/* Center the title text */
+.centered-title {
+    text-align: center;
+}
+
+/* Title style */
+.dashboard-title {
+    color: #13c2da;
+    text-align: center; /* Change the title color to match the theme */
+}
+
+/* Graph style */
